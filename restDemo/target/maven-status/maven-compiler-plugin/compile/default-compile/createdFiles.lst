@@ -1,0 +1,3 @@
+com\capgemini\training\restDemo\RestDemoApplication.class
+com\capgemini\training\restDemo\model\Customer.class
+com\capgemini\training\restDemo\CustController\CustController.class

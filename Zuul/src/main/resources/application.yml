@@ -1,0 +1,9 @@
+zuul:
+  routes:
+    customerCRUD:
+      path: /customerCrud/**
+      service-id: CUSTOMERCRUD
+    customerUI:
+      path: /customerUI/**
+      service-id: CUSTOMERUI
+      
